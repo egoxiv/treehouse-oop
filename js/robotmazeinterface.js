@@ -204,4 +204,3 @@ RobotMazeInterface.prototype.renderControls = function () {
 
   return $actions;
 }
-

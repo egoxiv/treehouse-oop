@@ -91,13 +91,3 @@ Robot.prototype.exitMaze = function(steps) {
         return false;
     }
 }
-
-
-
-
-
-
-
-
-
-

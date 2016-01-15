@@ -104,7 +104,3 @@ Maze.prototype.canMove = function(x, y, direction) {
 
     return true;
 }
-
-
-
-
